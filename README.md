@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Junior Backend engineer -- SpringBoot -- .NET -- <br>👯 I’m Motivated, eager, and enthusiastic. i would love a good challenge that can teach me <br>      along the way. <br>🌱 I’m currently learning Flutter and mobile development <br>
+🔭 Mid-Level Backend engineer -- SpringBoot -- Django -- Node -- <br>👯 I’m Motivated, eager, and enthusiastic. i would love a good challenge that can teach me <br>      along the way. <br>🌱 I’m currently learning Flutter and mobile development <br>
 
 
 ## 🌐 Socials:
